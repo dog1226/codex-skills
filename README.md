@@ -14,8 +14,8 @@
 請幫我安裝 https://github.com/dog1226/codex-skills 這個 repo，照這個順序，每一步都等我回答再繼續：
 1. 直接執行 git clone https://github.com/dog1226/codex-skills.git 到暫存資料夾。不要上網搜尋這個 repo：
    網路上有名稱相同、但擁有者不同的 repo（例如 arumaekawa/codex-skills），擁有者必須是 dog1226。
-2. 把將要安裝的每個檔案「完整內容」顯示給我看（AGENTS.md 和 skills 底下每個 SKILL.md），並用白話告訴我：
-   這些是別人的個人偏好，安裝後你（Codex）的行為會有哪些改變。
+2. 把將要安裝的每個檔案「完整內容」直接貼在你的回覆裡（AGENTS.md 和 skills 底下每個 SKILL.md），
+   不要只告訴我檔案位置或指令輸出在哪裡。貼完後用白話告訴我：這些是別人的個人偏好，安裝後你（Codex）的行為會有哪些改變。
 3. 檢查 ~/.codex/AGENTS.md 和 ~/.agents/skills/ 是否已有同名檔案。有的話先備份，再問我要「附加」、「取代」還是「跳過」，不要自己決定。
 4. 等我明確說「確認安裝」才複製檔案，不要提前動手。
 5. 裝完告訴我複製了哪些檔案、放在哪裡，以及怎麼移除。
